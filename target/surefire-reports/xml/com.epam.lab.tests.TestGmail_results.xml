@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test Send Letter"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22,322">
+  <properties />
+  
+  
+            <testcase name="sendFromDrafts" time="10,748" classname="com.epam.lab.tests.TestGmail" />
+                <testcase name="sendFromDrafts" time="11,574" classname="com.epam.lab.tests.TestGmail" />
+      
+</testsuite>

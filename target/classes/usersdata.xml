@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <email>testseleniumlab5@gmail.com</email>
+        <password>teStlab#5</password>
+    </user>
+    <user>
+        <email>testseleniumlab51@gmail.com</email>
+        <password>teStlab#5</password>
+    </user>
+    <user>
+        <email>testseleniumlab52@gmail.com</email>
+        <password>teStlab#5</password>
+    </user>
+    <user>
+        <email>testseleniumlab53@gmail.com</email>
+        <password>teStlab#5</password>
+    </user>
+    <user>
+        <email>testseleniumlab54@gmail.com</email>
+        <password>teStlab#5</password>
+    </user>
+</users>
